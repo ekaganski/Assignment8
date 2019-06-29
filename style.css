@@ -1,0 +1,29 @@
+body {
+    background: url("https://www.proofhub.com/wp-content/uploads/2019/01/to-do-list-apps.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.list{
+    margin-top: 50px;
+    border: solid;
+    color: white;
+}
+
+
+.erase{
+    position: absolute;
+    right: 50px;
+    color: red; 
+}
+.edit{
+    position: absolute;
+    right: 10px;
+    color: green;  
+}
+.header{
+    color: white;
+    margin-top: 150px
+   
+}
